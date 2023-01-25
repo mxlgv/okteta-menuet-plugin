@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=The structure of the executable file KolibriOS and MenuetOS.
+Encoding=UTF-8
+Icon=application-x-executable
+Name=MENUET01 structure
+ServiceTypes=KPluginInfo
+Type=Service
+X-KDE-PluginInfo-Author=Maxim Logaev
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-Email=maximlogaev2001ezro@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=false
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=menuet
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/turbocat2001/okteta-menuet-plugin
